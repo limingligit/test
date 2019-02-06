@@ -1,1 +1,8 @@
+this is mystudy of git
+chenchen zhangyi limingli zhanghui
+include<iostream>
+using namespace std;
+int main(){
+
+}
 bgfvxzcv xzscdfdsg
